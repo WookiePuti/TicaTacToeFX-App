@@ -1,0 +1,7 @@
+{
+  "TicTacNames": {
+    "CIRCLE": "O",
+    "CROSS": "X",
+    "EMPTY": " "
+  }
+}
